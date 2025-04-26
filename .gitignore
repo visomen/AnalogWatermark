@@ -1,0 +1,15 @@
+*.pdf
+*.docx
+*.doc
+*.png
+*.odt
+*.odt#
+*.pdf#
+*.docx#
+*.doc#
+*.png#
+*.odt#
+
+.~lock.*#
+
+!AnalogWatermarkDatasheet.pdf
